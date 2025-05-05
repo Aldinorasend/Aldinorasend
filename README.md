@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Tools**: VSCode, Git
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldinorasend&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldinorasend&layout=compact&theme=dark)
 
 ### 🌎 Connect With Me
